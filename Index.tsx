@@ -9,8 +9,8 @@ import OurJourney from "@/components/OurJourney";
 
 // 🖼️ Background slideshow images (auto-rotates every 5 seconds)
 const BACKGROUND_IMAGES = [
-  "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=1920&q=80",
-  "https://images.unsplash.com/photo-1529333166437-7750a6dd5a70?w=1920&q=80",
+  "WhatsApp Image 2026-02-14 at 00.24.23 (1).jpeg=80",
+  "WhatsApp Image 2026-02-14 at 00.25.58 (3).jpeg=80",
   "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?w=1920&q=80",
   "https://images.unsplash.com/photo-1474552226712-ac0f0961a954?w=1920&q=80",
 ];
