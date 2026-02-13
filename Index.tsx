@@ -19,15 +19,15 @@ const BACKGROUND_IMAGES = [
 const MUSIC_URL = "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3";
 
 // 💌 Romantic messages
-const HEADING_MESSAGE = "My Dearest Love...";
-const SUBHEADING_MESSAGE = "Every heartbeat whispers your name";
-const QUESTION_TEXT = "Will you be my Valentine? 💖";
-const NO_CLICK_MESSAGE = "How dare you 😤💔";
-const YES_MESSAGE = "You just made me the happiest person alive 💕";
+const HEADING_MESSAGE = "My Stupidest Veena";
+const SUBHEADING_MESSAGE = "Thanks for always putting in your efforts";
+const QUESTION_TEXT = "Will you be my Valentine? 🙈";
+const NO_CLICK_MESSAGE = "Aur koi option hai kya😂😜😋";
+const YES_MESSAGE = "Thanks for being my valentine my soon to be wife ❤️";
 
 // 🖼️ Final celebration image (shown when they click YES)
 const FINAL_IMAGE_URL =
-  "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=1920&q=80";
+  "WhatsApp Image 2026-02-14 at 00.25.56 (1).jpeg=80";
 
 // ============================================================
 
